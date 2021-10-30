@@ -4,7 +4,7 @@
   "description": "This Project is for learning Passport js",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "Bharath Veerakumar S",
   "license": "ISC",
